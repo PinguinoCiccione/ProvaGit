@@ -1,4 +1,8 @@
 
 toma é un coglione
+<<<<<<< Upstream, based on origin/master
 chai ragione
 
+=======
+boh
+>>>>>>> 84184d3 boh
